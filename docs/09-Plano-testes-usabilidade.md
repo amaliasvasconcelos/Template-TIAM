@@ -6,9 +6,11 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 
 Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos. No entanto, atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível que permita identificar o voluntário deverá ser apresentado.
 
-> Exemplo: o objetivo do Plano de Testes de Usabilidade é obter informações quanto à expectativa dos usuários em relação à funcionalidade da aplicação de forma geral.
+> Exemplo:
 
-Para tanto, elaboramos quatro cenários, cada um baseado na definição apresentada sobre as histórias dos usuários, definido na etapa das especificações do projeto.
+O objetivo doPlano de testes de usabilidade é obter informações quanto à expectativa dos usuários em relação à funcionalidade da aplicação de forma geral.
+
+Para tanto, foram elaborados quatro cenários, cada um baseado na definição apresentada sobre as histórias dos usuários, definido na etapa das especificações do projeto.
 
 Foram convidadas quatro pessoas que os perfis se encaixassem nas definições das histórias apresentadas na documentação, visando averiguar os seguintes indicadores:
 
@@ -26,7 +28,7 @@ Tempo para conclusão da tarefa: em segundos, e em comparação com o tempo util
 
 Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as informações pessoais dos usuários que participaram do teste não foram coletadas, tendo em vista a ausência de Termo de Consentimento Livre e Esclarecido.
 
-> Apresente os cenários de testes utilizados na realização dos testes de usabilidade da sua aplicação. Escolha cenários de testes que demonstrem as principais histórias de usuário sendo realizadas. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+> Apresente os cenários de testes utilizados na realização dos testes de usabilidade da sua aplicação. Escolha cenários de testes que demonstrem as principais histórias de usuário sendo realizadas. Neste tópico, você deve detalhar quais funcionalidades foram avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
 ## Cenários de teste de usabilidade
 
