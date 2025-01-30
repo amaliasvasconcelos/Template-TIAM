@@ -2,7 +2,7 @@
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Trabalho Interdisciplinar Desenvolvimento de Aplicação Interativa`
+`DISCIPLINA: Trabalho Interdisciplinar Aplicação Móvel`
 
 `Xº semestre/ANO`
 
